@@ -1,0 +1,1 @@
+-- delete_horses_height18.sql

@@ -1,0 +1,1 @@
+-- select_registeredname_by_birthdate.sql

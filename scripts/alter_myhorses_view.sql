@@ -1,0 +1,1 @@
+-- alter_myhorses_view.sql
