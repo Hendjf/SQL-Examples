@@ -1,0 +1,3 @@
+# This project contains standalone SQL scripts.
+# No external libraries or runtime dependencies are required.
+# Scripts are intended to be run directly in a MySQL compatible environment.
