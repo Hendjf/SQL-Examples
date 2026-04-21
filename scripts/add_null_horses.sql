@@ -38,8 +38,7 @@ WHERE ID = 4;
 ALTER TABLE Horse MODIFY Breed VARCHAR(20) NULL;
 
 UPDATE Horse
-SET BirthDate = NULL,
-    Breed = NULL
+SET Breed = NULL
 WHERE BirthDate >= '2016-12-22';
 
 SELECT * FROM Horse;
